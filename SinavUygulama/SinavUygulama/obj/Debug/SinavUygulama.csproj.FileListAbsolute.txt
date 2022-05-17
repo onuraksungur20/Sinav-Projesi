@@ -1,0 +1,43 @@
+C:\Users\onur\Desktop\udemy projeler\SinavUygulama\SinavUygulama\bin\Debug\SinavUygulama.exe
+C:\Users\onur\Desktop\udemy projeler\SinavUygulama\SinavUygulama\bin\Debug\SinavUygulama.pdb
+C:\Users\onur\Desktop\udemy projeler\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.csprojResolveAssemblyReference.cache
+C:\Users\onur\Desktop\udemy projeler\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form1.resources
+C:\Users\onur\Desktop\udemy projeler\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Properties.Resources.resources
+C:\Users\onur\Desktop\udemy projeler\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.csproj.GenerateResource.Cache
+C:\Users\onur\Desktop\udemy projeler\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.exe
+C:\Users\onur\Desktop\udemy projeler\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.pdb
+C:\Users\onur\Desktop\udemy projeler\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_kayit.resources
+C:\Users\onur\Desktop\udemy projeler\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_soruEkle.resources
+C:\Users\onur\Desktop\udemy projeler\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_sifremiUnuttum.resources
+C:\Users\Fuyor\Desktop\SinavUygulama\SinavUygulama\bin\Debug\SinavUygulama.exe
+C:\Users\Fuyor\Desktop\SinavUygulama\SinavUygulama\bin\Debug\SinavUygulama.pdb
+C:\Users\Fuyor\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.csproj.AssemblyReference.cache
+C:\Users\Fuyor\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_kayit.resources
+C:\Users\Fuyor\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_sifremiUnuttum.resources
+C:\Users\Fuyor\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_soruEkle.resources
+C:\Users\Fuyor\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Properties.Resources.resources
+C:\Users\Fuyor\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.csproj.GenerateResource.cache
+C:\Users\Fuyor\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Fuyor\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.exe
+C:\Users\Fuyor\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.pdb
+C:\Users\Fuyor\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_Giris.resources
+C:\Users\Fuyor\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_sinavTuru.resources
+C:\Users\Fuyor\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_SuresizSinav.resources
+C:\Users\Fuyor\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_SureliSinav.resources
+C:\Users\onur\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.exe
+C:\Users\onur\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.pdb
+C:\Users\onur\Desktop\SinavUygulama\SinavUygulama\bin\Debug\SinavUygulama.exe
+C:\Users\onur\Desktop\SinavUygulama\SinavUygulama\bin\Debug\SinavUygulama.pdb
+C:\Users\onur\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.csprojResolveAssemblyReference.cache
+C:\Users\onur\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_Giris.resources
+C:\Users\onur\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_Kayit.resources
+C:\Users\onur\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_SifremiUnuttum.resources
+C:\Users\onur\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_Sinav.resources
+C:\Users\onur\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_SinavTuru.resources
+C:\Users\onur\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_SoruEkle.resources
+C:\Users\onur\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_SuresizSinav.resources
+C:\Users\onur\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Form_SureliSinav.resources
+C:\Users\onur\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.Properties.Resources.resources
+C:\Users\onur\Desktop\SinavUygulama\SinavUygulama\obj\Debug\SinavUygulama.csproj.GenerateResource.Cache
+C:\Users\onur\Desktop\SinavUygulama\SinavUygulama\bin\Debug\SinavUygulama.exe.config
+C:\Users\onur\Desktop\SinavUygulama\SinavUygulama\bin\Debug\Bunifu_UI_v1.52.dll
